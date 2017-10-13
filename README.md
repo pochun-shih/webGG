@@ -12,3 +12,10 @@ Copyright © 2017 WebGG Inc. All rights reserved
 聖閔表示登入畫面將以簡約風格呈現<br />
 柏均提議登入系統使用Google Signin Api<br />
 冠閔打算於下午2:30分與欣穆去吃他媽的出一張嘴<br />
+
+13/10/03<br />
+<hr />
+上傳空白網頁<br />
+Python + Flask<br />
+可佈署為GAE專案<br />
+
