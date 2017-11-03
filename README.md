@@ -39,3 +39,13 @@ Python + Flask<br />
 冠閔快要壓抑不住體內被封印住的POWER了<br />
 竑銘試著找資料<br />
 <br /><br /><br />
+
+17/10/27<br />
+<hr />
+絜文請假<br />
+聖閔規劃響應式網站<br />
+柏均資料格式設計完成<br />
+欣穆欠冠閔一瓶飲料<br />
+冠閔Now, this POWER is yours.<br />
+竑銘試著找資料<br />
+<br /><br /><br />
