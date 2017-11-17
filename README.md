@@ -49,3 +49,13 @@ Python + Flask<br />
 冠閔Now, this POWER is yours.<br />
 竑銘試著找資料<br />
 <br /><br /><br />
+
+17/10/27<br />
+<hr />
+絜文加了彈幕<br />
+聖閔買了PS4 pro 1TB<br />
+柏均規劃儲存程式碼<br />
+欣穆 is the god of rockman.<br />
+冠閔ㄎㄧㄤ了一個早上<br />
+竑銘兩個禮拜沒練腿<br />
+<br /><br /><br />
